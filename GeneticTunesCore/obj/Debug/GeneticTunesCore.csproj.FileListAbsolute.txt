@@ -1,9 +1,0 @@
-D:\anonymous\Documents\Programming\C Sharp\GeneticTunes\GeneticTunesCore\bin\Debug\GeneticTunesCore.dll
-D:\anonymous\Documents\Programming\C Sharp\GeneticTunes\GeneticTunesCore\bin\Debug\GeneticTunesCore.pdb
-D:\anonymous\Documents\Programming\C Sharp\GeneticTunes\GeneticTunesCore\bin\Debug\GeneticTunesCoreInterfaces.dll
-D:\anonymous\Documents\Programming\C Sharp\GeneticTunes\GeneticTunesCore\bin\Debug\GeneticTunesCoreInterfaces.pdb
-D:\anonymous\Documents\Programming\C Sharp\GeneticTunes\GeneticTunesCore\obj\Debug\GeneticTunesCore.csprojAssemblyReference.cache
-D:\anonymous\Documents\Programming\C Sharp\GeneticTunes\GeneticTunesCore\obj\Debug\GeneticTunesCore.csproj.CoreCompileInputs.cache
-D:\anonymous\Documents\Programming\C Sharp\GeneticTunes\GeneticTunesCore\obj\Debug\GeneticTunesCore.csproj.CopyComplete
-D:\anonymous\Documents\Programming\C Sharp\GeneticTunes\GeneticTunesCore\obj\Debug\GeneticTunesCore.dll
-D:\anonymous\Documents\Programming\C Sharp\GeneticTunes\GeneticTunesCore\obj\Debug\GeneticTunesCore.pdb
