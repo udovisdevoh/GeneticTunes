@@ -1,0 +1,5 @@
+D:\anonymous\Documents\Programming\C Sharp\GeneticTunes\GeneticTunesCore\GeneticTunesCoreInterfaces\bin\Debug\GeneticTunesCoreInterfaces.dll
+D:\anonymous\Documents\Programming\C Sharp\GeneticTunes\GeneticTunesCore\GeneticTunesCoreInterfaces\bin\Debug\GeneticTunesCoreInterfaces.pdb
+D:\anonymous\Documents\Programming\C Sharp\GeneticTunes\GeneticTunesCore\GeneticTunesCoreInterfaces\obj\Debug\GeneticTunesCoreInterfaces.csproj.CoreCompileInputs.cache
+D:\anonymous\Documents\Programming\C Sharp\GeneticTunes\GeneticTunesCore\GeneticTunesCoreInterfaces\obj\Debug\GeneticTunesCoreInterfaces.dll
+D:\anonymous\Documents\Programming\C Sharp\GeneticTunes\GeneticTunesCore\GeneticTunesCoreInterfaces\obj\Debug\GeneticTunesCoreInterfaces.pdb
